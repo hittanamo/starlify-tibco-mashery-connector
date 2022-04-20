@@ -1,14 +1,14 @@
 # Starlify connector for Tibco Mashery api gateway
-Exports the api details to starlify as Service, Sysytem and Flow.
+Exports the API details to Starlify as systems and services.
 
 ## Dependencies
-   1. Java-8 +
+   Java-8 +
    
 ### spring-boot-starter-web
-For exposure of connector etc. on http.
+For exposure of connectors etc. on http.
 
 ## Configuration
-Make sure proper Tibco Mashery api gateway and starlify url's configured properly in properties file like this
+Make sure proper Tibco Mashery API Gateway and Starlify url's configured properly in properties file like this:
 
 ```
 		mashrey:
@@ -19,7 +19,7 @@ Make sure proper Tibco Mashery api gateway and starlify url's configured properl
 ```
  
 ## Start
-First clone the project using below link
+First copy the project using the link below:
      https://github.com/entiros/starlify-tibco-mashery-connector.git
 
 Go to cleaned location and run below command to start the process
